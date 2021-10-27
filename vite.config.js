@@ -1,5 +1,5 @@
 export default {
-    base: "/data-visualization/",
+    base: "/learn-data-visualization/",
     build: {
         outDir: "docs",
     },
